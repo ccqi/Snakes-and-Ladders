@@ -1,0 +1,66 @@
+C:\Users\CharlesQi\AppData\Local\Temporary Projects\Snakes and Ladders\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CharlesQi\AppData\Local\Temporary Projects\Snakes and Ladders\obj\x86\Debug\Snakes_and_Ladders.Form1.resources
+C:\Users\CharlesQi\AppData\Local\Temporary Projects\Snakes and Ladders\obj\x86\Debug\Snakes_and_Ladders.Properties.Resources.resources
+C:\Users\CharlesQi\AppData\Local\Temporary Projects\Snakes and Ladders\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CharlesQi\AppData\Local\Temporary Projects\Snakes and Ladders\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CharlesQi\AppData\Local\Temporary Projects\Snakes and Ladders\bin\Debug\Snakes and Ladders.exe
+C:\Users\CharlesQi\AppData\Local\Temporary Projects\Snakes and Ladders\bin\Debug\Snakes and Ladders.pdb
+C:\Users\CharlesQi\AppData\Local\Temporary Projects\Snakes and Ladders\obj\x86\Debug\Snakes and Ladders.exe
+C:\Users\CharlesQi\AppData\Local\Temporary Projects\Snakes and Ladders\obj\x86\Debug\Snakes and Ladders.pdb
+C:\Users\CharlesQi\Desktop\Charles's Work\Programming\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\Snakes and Ladders.exe
+C:\Users\CharlesQi\Desktop\Charles's Work\Programming\Snakes and Ladders\Snakes and Ladders\bin\Debug\Snakes and Ladders.exe
+C:\Users\CharlesQi\Desktop\Charles's Work\Programming\Snakes and Ladders\Snakes and Ladders\bin\Debug\Snakes and Ladders.pdb
+C:\Users\CharlesQi\Desktop\Charles's Work\Programming\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CharlesQi\Desktop\Charles's Work\Programming\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\Snakes_and_Ladders.Properties.Resources.resources
+C:\Users\CharlesQi\Desktop\Charles's Work\Programming\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CharlesQi\Desktop\Charles's Work\Programming\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CharlesQi\Desktop\Charles's Work\Programming\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\Snakes and Ladders.pdb
+G:\Visual Studio 2010\Projects\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\Snakes and Ladders.exe
+G:\Visual Studio 2010\Projects\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\Snakes and Ladders.pdb
+G:\Visual Studio 2010\Projects\Snakes and Ladders\Snakes and Ladders\bin\Debug\Snakes and Ladders.exe
+G:\Visual Studio 2010\Projects\Snakes and Ladders\Snakes and Ladders\bin\Debug\Snakes and Ladders.pdb
+G:\Visual Studio 2010\Projects\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Visual Studio 2010\Projects\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\Snakes_and_Ladders.Properties.Resources.resources
+G:\Visual Studio 2010\Projects\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Visual Studio 2010\Projects\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CharlesQi\Desktop\Charles's Work\Programming\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\Snakes_and_Ladders.FormSnakesAndLadders.resources
+G:\Visual Studio 2010\Projects\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\Snakes_and_Ladders.FormSnakesAndLadders.resources
+J:\Programming\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\Snakes and Ladders.exe
+J:\Programming\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\Snakes and Ladders.pdb
+J:\Programming\Snakes and Ladders\Snakes and Ladders\bin\Debug\Snakes and Ladders.exe
+J:\Programming\Snakes and Ladders\Snakes and Ladders\bin\Debug\Snakes and Ladders.pdb
+J:\Programming\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Programming\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\Snakes_and_Ladders.FormSnakesAndLadders.resources
+J:\Programming\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\Snakes_and_Ladders.Properties.Resources.resources
+J:\Programming\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Programming\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programming\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\Snakes and Ladders.exe
+F:\Programming\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\Snakes and Ladders.pdb
+F:\Programming\Snakes and Ladders\Snakes and Ladders\bin\Debug\Snakes and Ladders.exe
+F:\Programming\Snakes and Ladders\Snakes and Ladders\bin\Debug\Snakes and Ladders.pdb
+F:\Programming\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programming\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\Snakes_and_Ladders.FormSnakesAndLadders.resources
+F:\Programming\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\Snakes_and_Ladders.Properties.Resources.resources
+F:\Programming\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programming\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programming\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\Snakes_and_Ladders.popUp.resources
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 11 Work\First Semester\Computer Science\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\Snakes and Ladders.exe
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 11 Work\First Semester\Computer Science\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\Snakes and Ladders.pdb
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 11 Work\First Semester\Computer Science\Snakes and Ladders\Snakes and Ladders\bin\Debug\Snakes and Ladders.exe
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 11 Work\First Semester\Computer Science\Snakes and Ladders\Snakes and Ladders\bin\Debug\Snakes and Ladders.pdb
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 11 Work\First Semester\Computer Science\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 11 Work\First Semester\Computer Science\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\Snakes_and_Ladders.FormSnakesAndLadders.resources
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 11 Work\First Semester\Computer Science\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\Snakes_and_Ladders.popUp.resources
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 11 Work\First Semester\Computer Science\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\Snakes_and_Ladders.Properties.Resources.resources
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 11 Work\First Semester\Computer Science\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 11 Work\First Semester\Computer Science\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\Snakes and Ladders.exe
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\Snakes and Ladders.pdb
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Snakes and Ladders\Snakes and Ladders\bin\Debug\Snakes and Ladders.exe
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Snakes and Ladders\Snakes and Ladders\bin\Debug\Snakes and Ladders.pdb
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\Snakes_and_Ladders.FormSnakesAndLadders.resources
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\Snakes_and_Ladders.popUp.resources
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\Snakes_and_Ladders.Properties.Resources.resources
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\GenerateResource.write.1.tlog
